@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**kwang888210/kwang888210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### Hi there 👋
 
@@ -21,4 +15,4 @@ Here are some ideas to get you started:
 **Computer Science and Technology student**  
 💻 Main languages: **Python, C++, Java, C, HTML, CSS, JavaScript**  
 📡 Research interest: **Deep Learning for Remote Sensing**
--->
+
